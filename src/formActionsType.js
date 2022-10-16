@@ -1,0 +1,7 @@
+ export const ACTIONS_TYPES = {
+     CHANGE_INPUT : "CHANGE_INPUT",
+     ADD_TAG : "ADD_TAG",
+     REMOVE_TAG : "REMOVE_TAG",
+     INCREASE : "INCREASE",
+     DECREASE : "DECREASE"
+ }  
